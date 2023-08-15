@@ -11,7 +11,7 @@ galaxy_info:
 
 # The galaxy api currentyl supports only Win 2008R2, 2008x64, 2008x86,
 # 2012, 2012R2, 2016, and 2019 verisons. And using anything else will lower
-# galaxy score...
+# galaxy score....
     platforms:
         - name: Windows
           versions:
