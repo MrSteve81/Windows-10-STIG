@@ -28,6 +28,11 @@ galaxy_info:
         - complianceascode
         - compliance
 
+    repository: "https://github.com/MrSteve81/Windows-10-STIG"
+    documentation: "https://github.com/MrSteve81/Windows-10-STIG/blob/devel/README.md"
+    homepage: "https://github.com/MrSteve81"
+    issues: "https://github.com/ansible-lockdown/Windows-2019-CIS/issues"
+
     collections:
         - ansible.windows
         - community.windows
