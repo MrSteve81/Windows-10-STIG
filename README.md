@@ -5,6 +5,11 @@
 ### Based on [ Windows DISA STIG Version 2, Rel 5 released on Novenber 9th, 2022 ](https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_MS_Windows_10_V2R5_STIG.zip)
 
 ---
+![Online Discord Users](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscord.com%2Fapi%2Finvites%2FNGdHV6uP%3Fwith_counts%3Dtrue&query=%24.approximate_presence_count&logo=discord&logoColor=white&color=green&label=Users%20Online)
+
+![Total Discord Users](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscord.com%2Fapi%2Finvites%2FNGdHV6uP%3Fwith_counts%3Dtrue&query=%24.approximate_member_count&logo=discord&logoColor=white&color=blue&label=Users%20Total)
+
+
 
 ![Org Stars](https://img.shields.io/github/stars/ansible-lockdown?label=Org%20Stars&style=social)
 ![Stars](https://img.shields.io/github/stars/ansible-lockdown/Windows-10-STIG?label=Repo%20Stars&style=social)
